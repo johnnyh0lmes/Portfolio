@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white-600 p-4">
       <div className="container mx-auto flex justify-between items-center">
-        {/* Logo */}
+        {/* Name */}
         <Link href="/" className="text-black text-2xl font-bold">
           John Yasner
         </Link>
